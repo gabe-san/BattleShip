@@ -5,8 +5,8 @@
     "deploy": "git subtree push --prefix dist origin gh-pages",
     "test": "jest"
   },
-  "name": "jestpractice",
-  "description": "TDD js practice",
+  "name": "battleship",
+  "description": "battleship TDD practice",
   "version": "1.0.0",
   "main": "webpack.config.js",
   "author": "",

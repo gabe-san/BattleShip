@@ -1,3 +1,3 @@
-# JESTpractice
+# Project BattleShip
 
-TDD js practice
+Recreate the popular game Battleship in JavaScript with an emphasis on TDD.
